@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ResultantTest</string>
+    <string name="action_settings">Reload Other</string>
+    <string name="reload_string">Reload This</string>
+</resources>
